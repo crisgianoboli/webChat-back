@@ -1,0 +1,1 @@
+{"name":"logout-transactions","hostname":"NTBLENO60386","pid":11632,"url":"http://172.22.14.47:5001/api/auth/logout","method":"post","startedTime":1633629477341,"level":30,"msg":"request","time":"2021-10-07T17:57:57.341Z","v":0}

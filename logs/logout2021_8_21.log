@@ -1,0 +1,2 @@
+{"name":"logout-transactions","hostname":"NTBLENO60386","pid":13600,"url":"http://172.22.14.47:5001/api/auth/logout","method":"post","startedTime":1632233549329,"level":30,"msg":"request","time":"2021-09-21T14:12:29.329Z","v":0}
+{"name":"logout-transactions","hostname":"NTBLENO60386","pid":13600,"url":"http://172.22.14.47:5001/api/auth/logout","serviceName":"","context":"","businessData":"","responseTime":3181,"responseStatus":204,"level":30,"msg":"response","time":"2021-09-21T14:12:32.510Z","v":0}

@@ -1,0 +1,3 @@
+{"name":"logout-transactions","hostname":"NTBLENO60386","pid":7576,"url":"http://172.22.14.47:5001/api/auth/logout","method":"post","startedTime":1632744714502,"level":30,"msg":"request","time":"2021-09-27T12:11:54.502Z","v":0}
+{"name":"logout-transactions","hostname":"NTBLENO60386","pid":7576,"url":"http://172.22.14.47:5001/api/auth/logout","serviceName":"","context":"","businessData":"","responseTime":1216,"responseStatus":204,"level":30,"msg":"response","time":"2021-09-27T12:11:55.718Z","v":0}
+{"name":"logout-transactions","hostname":"NTBLENO60386","pid":11772,"url":"http://172.22.14.47:5001/api/auth/logout","method":"post","startedTime":1632747251994,"level":30,"msg":"request","time":"2021-09-27T12:54:11.994Z","v":0}
